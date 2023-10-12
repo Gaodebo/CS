@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[44],{325:function(t,n,s){"use strict";s.r(n);var o=s(14),r=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("font",{attrs:{color:"#ffda57"}},[this._v("【推荐】")])],1)])}),[],!1,null,null,null);n.default=r.exports}}]);

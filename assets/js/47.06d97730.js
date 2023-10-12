@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[47],{328:function(t,n,s){"use strict";s.r(n);var o=s(14),r=Object(o.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("font",{attrs:{color:"#ffcb41"}},[this._v("说明：")])],1)])}),[],!1,null,null,null);n.default=r.exports}}]);
